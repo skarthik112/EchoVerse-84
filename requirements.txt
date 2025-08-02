@@ -1,10 +1,11 @@
-streamlit
-torch
-transformers
-sentencepiece
-pydub
-soundfile
-edge-tts
-numpy
-scipy
+streamlit==1.31.1
+torch==2.2.2
+transformers==4.40.1
+sentencepiece==0.2.0
+pydub==0.25.1
+soundfile==0.12.1
+edge-tts==6.1.2
+numpy==1.26.4
+scipy==1.13.0
+
 
