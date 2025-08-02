@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+sentencepiece
+pydub
+soundfile
+edge-tts
+numpy
+scipy
+
